@@ -55,3 +55,4 @@ interface Plan {
 - Always use `coder` to get stock information via `yfinance`.
 - Always use `reporter` to present your final report. Reporter can only be used once as the last step.
 - Always Use the same language as the user.
+- Don't output any text except the json described as TS schema
